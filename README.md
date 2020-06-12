@@ -1,10 +1,8 @@
-*Clone this project and work on it locally.*
-
 ## Mission
 
 This repository contains a scaffolded create-react-app application with Material UI.
 
-Create a project that fetches the data from API and creates a grid overview page of all the job positions in cards.
+Create a project that fetches the data from the API endpoint that was provided to you and create a grid overview page of all the job positions in cards.
 
 Cards should only contain title and location name.
 
