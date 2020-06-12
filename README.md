@@ -2,9 +2,11 @@
 
 This repository contains a scaffolded create-react-app application with Material UI.
 
+![Example](demo.gif)
+
 Create a project that fetches the data from the API endpoint that was provided to you and create a grid overview page of all the job positions in cards.
 
-Cards should only contain title and location name.
+Cards should only contain title and location name, and link to position link.
 
 ## Test Requirements
 - Fetch Job data from API endpoint provided to you.
@@ -21,8 +23,5 @@ Cards should only contain title and location name.
 
 `npm run start`
 
-## Submission
-
-Submit to Recruiter
-- via Github or Gitlab link to your repository
-- Or send zipped **without node_modules folder please**.
+## Used packages
+- [Material UI](https://material-ui.com/)
