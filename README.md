@@ -25,3 +25,8 @@ Cards should only contain title and location name, and link to position link.
 
 ## Used packages
 - [Material UI](https://material-ui.com/)
+
+## Submission
+
+Share your test with Recruiter (without node_modules please)
+Or create a git repository that's accessible 
