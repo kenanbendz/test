@@ -28,5 +28,5 @@ Cards should only contain title and location name, and link to position link.
 
 ## Submission
 
-Share your test with Recruiter (without node_modules please)
-Or create a git repository that's accessible 
+Share your test (without node_modules please)
+Email zipped to kenan@unity3d.com
