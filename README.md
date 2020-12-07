@@ -1,4 +1,4 @@
-## Mission
+# Mission
 
 This repository contains a scaffolded create-react-app application with Material UI.
 
@@ -9,11 +9,14 @@ Create a project that fetches the data from the API endpoint that was provided t
 Cards should only contain title and location name, and link to position link.
 
 ## Test Requirements
+
 - Fetch Job data from API endpoint provided to you.
 - Use Hooks (state, effect etc.)
 - Use Arrow function components
 - Use Material UI
 - Consider application states
+- A Search is needed to filter the jobs by Title (place the search above the list)
+- A Dropdown (Select) is needed to filter the jobs by locations (All, Austin, etc.). It can be placed beside the Search
 
 ## Installation
 
@@ -24,6 +27,7 @@ Cards should only contain title and location name, and link to position link.
 `npm run start`
 
 ## Used packages
+
 - [Material UI](https://material-ui.com/)
 
 ## Submission
